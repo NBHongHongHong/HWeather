@@ -1,4 +1,4 @@
-package com.didikee.hweatherandroid;
+package com.didikee.hweather;
 
 import org.junit.Test;
 

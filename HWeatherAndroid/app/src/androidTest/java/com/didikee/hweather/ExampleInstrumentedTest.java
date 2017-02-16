@@ -1,4 +1,4 @@
-package com.didikee.hweatherandroid;
+package com.didikee.hweather;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
