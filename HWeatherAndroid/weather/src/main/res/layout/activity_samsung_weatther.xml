@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.support.design.widget.CoordinatorLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></android.support.design.widget.CoordinatorLayout>
+
+    <com.didikee.hweather.ui.customviews.SamsungWeatherScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity=""
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            >
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="400dp"
+                android:background="@color/BLUE_200"/>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="400dp"
+                android:background="@color/AMBER_300"/>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="400dp"
+                android:background="@color/BLUE_600"/>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="400dp"
+                android:background="@color/BROWN_400"/>
+
+        </LinearLayout>
+
+    </com.didikee.hweather.ui.customviews.SamsungWeatherScrollView>
+
+    <!--<View
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:background="@color/CYAN_600"
+        android:layout_gravity="top"/>-->
+
+</FrameLayout>
