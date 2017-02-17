@@ -17,7 +17,7 @@
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
-        <activity android:name=".test.SamsungWeattherActivity">
+        <activity android:name=".ui.samsung.SamsungWeattherActivity">
         </activity>
     </application>
 

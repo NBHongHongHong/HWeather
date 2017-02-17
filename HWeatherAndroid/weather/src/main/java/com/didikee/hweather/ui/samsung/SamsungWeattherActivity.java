@@ -1,4 +1,4 @@
-package com.didikee.hweather.test;
+package com.didikee.hweather.ui.samsung;
 
 import android.os.Bundle;
 import android.support.design.widget.CollapsingToolbarLayout;

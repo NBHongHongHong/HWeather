@@ -8,7 +8,7 @@ import android.view.View;
 
 import com.didikee.hweather.R;
 import com.didikee.hweather.network.HttpMethods;
-import com.didikee.hweather.test.SamsungWeattherActivity;
+import com.didikee.hweather.ui.samsung.SamsungWeattherActivity;
 
 import rx.Subscriber;
 

@@ -1,4 +1,4 @@
-package com.didikee.hweather.ui.customviews;
+package com.didikee.hweather.ui.samsung.customviews;
 
 import android.content.Context;
 import android.support.v4.widget.NestedScrollView;
